@@ -8,9 +8,7 @@ Brief Description:
 2. The à-trous-wavelet-based direct (DF) and multi-component (MF) methods were used to improve the performance of simple ELM.
 
 
-Capture 1. 19 climate phenomenon indices, from the National Oceanic and Atmospheric Administration Earth System Research Laboratory (NOAA-ESRL) 
-
-(https://psl.noaa.gov/data/climateindices/list/), were selected as potential inputs.
+Capture 1. 19 climate phenomenon indices, from the National Oceanic and Atmospheric Administration Earth System Research Laboratory (NOAA-ESRL) (https://psl.noaa.gov/data/climateindices/list/), were selected as potential inputs.
 
 ![图片](https://user-images.githubusercontent.com/26668538/117544496-56817c00-b054-11eb-875e-d8ff9642ea51.png)
 
